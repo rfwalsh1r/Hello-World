@@ -1,2 +1,3 @@
 # Hello-World
 This isi my greeting!
+I'm going through little exercise to get familiar with GitHub....
